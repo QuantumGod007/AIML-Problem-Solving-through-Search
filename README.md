@@ -1,5 +1,3 @@
-# AIML-Problem-Solving-through-Search# AIML Problem Solving through Search
-
 ## Practical Assignment 2
 
 This project evaluates different AI search techniques using a graph-search problem and the 8-Queens problem.
